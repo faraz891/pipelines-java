@@ -12,7 +12,7 @@ variables:
   azureSubscription: '588cba09-27e1-4bcd-b1e6-c113fe9967c4'
   
   # Web app name
-  webAppName: 'myApp'
+  webAppName: 'systemopsApp'
 
   # Environment name
   environmentName: 'test'
